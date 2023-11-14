@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 
-Developed by: yashaswi mitta
-Registeration Number : 212221230062
+Developed by: mudi pavan reddy
+Registeration Number : 212221230067
 
 ```
 ## ActivityMain.xml :
